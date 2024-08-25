@@ -1,7 +1,3 @@
-Here's a format you can use for your GitHub `README.md` file:
-
----
-
 # Project Name
 
 ![License](https://img.shields.io/github/license/yourusername/your-repository) ![Issues](https://img.shields.io/github/issues/yourusername/your-repository) ![Forks](https://img.shields.io/github/forks/yourusername/your-repository) ![Stars](https://img.shields.io/github/stars/yourusername/your-repository)
